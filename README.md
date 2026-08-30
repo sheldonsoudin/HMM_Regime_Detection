@@ -5,4 +5,4 @@ forecasts of the regime state (a predictive distribution over the three regimes 
 predicted regime). The three latent states represent distinct market regimes: Calm, Transition,
 and Crisis
 
-## See Final Report
+### See Final Report
